@@ -9,7 +9,7 @@
   </a>
 </p>
 
-> Static web page that simulates a crypto broker, made with only HTML/CSS 
+> My first web project: A static web page that simulates a crypto broker, made with only HTML/CSS 
 
 ### 🏠 [Homepage](https://danielhh-dev.github.io/Batata/)
 
