@@ -7,9 +7,6 @@
   <a href="https://github.com/danielhh-dev/Batata/graphs/commit-activity" target="_blank">
     <img alt="Maintenance" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg" />
   </a>
-  <a href="https://github.com/danielhh-dev/Batata/blob/master/LICENSE" target="_blank">
-    <img alt="License: MIT" src="https://img.shields.io/github/license/danielhh-dev/Batata Crypto" />
-  </a>
 </p>
 
 > Static web page that simulates cryptocurrency broker, made with only HTML/CSS 
@@ -36,6 +33,3 @@ Give a ⭐️ if this project helped you!
 
 Copyright © 2022 [Daniel Hernandez](https://github.com/danielhh-dev).<br />
 This project is [MIT](https://github.com/danielhh-dev/Batata/blob/master/LICENSE) licensed.
-
-***
-_This README was generated with ❤️ by [readme-md-generator](https://github.com/kefranabg/readme-md-generator)_
