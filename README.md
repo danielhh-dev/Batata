@@ -11,7 +11,7 @@
 
 > Static web page that simulates a crypto broker, made with only HTML/CSS 
 
-### 🏠 [Homepage](https://bookly-shop.netlify.app/)
+### 🏠 [Homepage](https://danielhh-dev.github.io/Batata/)
 
 ## Author
 
