@@ -7,6 +7,9 @@
   <a href="https://github.com/danielhh-dev/Batata/graphs/commit-activity" target="_blank">
     <img alt="Maintenance" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg" />
   </a>
+    <a href="#" target="_blank">
+    <img alt="License: MIT" src="https://img.shields.io/badge/License-MIT-yellow.svg" />
+  </a>
 </p>
 
 > My first web project: A static web page that simulates a crypto broker, made with only HTML/CSS 
@@ -19,7 +22,7 @@
 
 * Website: https://PORTFOLIO.netlify.app/
 * Github: [@danielhh-dev](https://github.com/danielhh-dev)
-* LinkedIn: [@https:\/\/www.linkedin.com\/in\/danielhhdev\/](https://linkedin.com/in/https:\/\/www.linkedin.com\/in\/danielhhdev\/)
+* LinkedIn: [@danielhhdev](https://linkedin.com/in/danielhhdev/)
 
 ## 🤝 Contributing
 
