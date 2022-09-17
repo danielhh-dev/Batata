@@ -1,4 +1,4 @@
-<h1 align="center">Welcome to Batata Crypto 👋</h1>
+<h1 align="center">Welcome to Bookly 👋</h1>
 <p>
   <img alt="Version" src="https://img.shields.io/badge/version-1.0-blue.svg?cacheSeconds=2592000" />
   <a href="https://github.com/danielhh-dev/Batata#readme" target="_blank">
@@ -9,7 +9,7 @@
   </a>
 </p>
 
-> Static web page that simulates cryptocurrency broker, made with only HTML/CSS 
+> Static web page that simulates a book store, made with only HTML/CSS 
 
 ### 🏠 [Homepage](https://bookly-shop.netlify.app/)
 
