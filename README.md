@@ -12,7 +12,7 @@
   </a>
 </p>
 
-> Static web page that simulates cryptocurrency btoker
+> Static web page that simulates cryptocurrency broker, made with only HTML/CSS 
 
 ### 🏠 [Homepage](https://bookly-shop.netlify.app/)
 
