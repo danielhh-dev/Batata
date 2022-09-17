@@ -134,6 +134,7 @@ main {
 }
 .main-tables-slider {
         display: flex;
+        flex-direction: column;
         gap: 20px;
         padding: 20px;
         height: 800px;
